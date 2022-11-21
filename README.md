@@ -11,11 +11,11 @@ The data for all OOD tests can be found [here](https://drive.google.com/drive/fo
 
 ## Citation
 
-Please consider to cite our work, thanks.
+If you find this work is helpful for your research, please consider to cite the paper as follows.
 
-@article{yang2022glue,
-  title={GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective},
-  author={Yang, Linyi and Zhang, Shuibai and Qin, Libo and Li, Yafu and Wang, Yidong and Liu, Hanmeng and Wang, Jindong and Xie, Xing and Zhang, Yue},
-  journal={arXiv preprint arXiv:2211.08073},
-  year={2022}
-}
+    @article{yang2022glue,
+      title={GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective},
+      author={Yang, Linyi and Zhang, Shuibai and Qin, Libo and Li, Yafu and Wang, Yidong and Liu, Hanmeng and Wang, Jindong and Xie, Xing and Zhang, Yue},
+      journal={arXiv preprint arXiv:2211.08073},
+      year={2022}
+    }
