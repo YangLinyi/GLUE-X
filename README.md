@@ -9,6 +9,10 @@ Please checkout these [examples](https://huggingface.co/transformers/custom_data
 
 The data for all OOD tests can be found [here](https://drive.google.com/drive/folders/1BcwjmVOqq96igfbB2MCXwLzthFX7XEhy?usp=sharing).
 
+## Main Contributer
+
+Shuibai Zhang (Coding work and Data Collection); Linyi Yang (Guidance and Experiments Design); Wei Zhou (Website)
+
 ## Citation
 
 If you find this work is helpful for your research, please consider to cite the paper as follows.
