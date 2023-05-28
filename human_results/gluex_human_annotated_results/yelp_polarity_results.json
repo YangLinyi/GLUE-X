@@ -1,0 +1,11 @@
+{
+    "annotator_0":{
+        "accuracy":0.8970588235294118
+    },
+    "annotator_1":{
+        "accuracy":0.9029411764705882
+    },
+    "avg_metric":{
+        "accuracy":0.9
+    }
+}

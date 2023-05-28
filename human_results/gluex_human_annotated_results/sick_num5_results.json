@@ -1,0 +1,26 @@
+{
+    "annotator_0":{
+        "pearson":0.7922350298637632,
+        "spearmanr":0.762383613701835
+    },
+    "annotator_1":{
+        "pearson":0.7936122075687684,
+        "spearmanr":0.7654509597832162
+    },
+    "annotator_2":{
+        "pearson":0.8182939064858732,
+        "spearmanr":0.803951587280152
+    },
+    "annotator_3":{
+        "pearson":0.8293300781664535,
+        "spearmanr":0.8044868606446768
+    },
+    "annotator_4":{
+        "pearson":0.8174709999525119,
+        "spearmanr":0.8034984883673681
+    },
+    "avg_metric":{
+        "pearson":0.810188444407474,
+        "spearmanr":0.7879543019554497
+    }
+}

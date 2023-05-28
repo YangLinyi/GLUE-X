@@ -1,0 +1,11 @@
+{
+    "annotator_0":{
+        "matthews_correlation":0.6278832585063482
+    },
+    "annotator_1":{
+        "matthews_correlation":0.6404552529865241
+    },
+    "avg_metric":{
+        "matthews_correlation":0.6341692557464361
+    }
+}
