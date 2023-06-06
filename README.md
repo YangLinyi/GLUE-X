@@ -11,7 +11,7 @@ The data for all OOD tests can be found [here](https://drive.google.com/drive/fo
 
 ## Main Contributer
 
-Shuibai Zhang (Coding work and Data Collection); Linyi Yang (Guidance and Experiments Design); Wei Zhou (Website)
+Shuibai Zhang (Code work and Experiments Implementation); Linyi Yang (Guidance and Experiments Design); Wei Zhou (Website Implementation)
 
 ## Citation
 
