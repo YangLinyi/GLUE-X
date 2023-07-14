@@ -3,7 +3,7 @@ We collect 13 publicly available datasets as OOD test data and conduct evaluatio
 
 ### Fine-tune your language model
 
-Please checkout these [examples](https://huggingface.co/transformers/custom_datasets.html) from [Hugging Face Transformer](https://huggingface.co/), to fine-tune your custom models.
+Please checkout these [examples](https://huggingface.co/docs/transformers/training) from [Hugging Face Transformer](https://huggingface.co/), to fine-tune your custom models.
 
 ## Out-of-Domain Tests (OOD)
 
